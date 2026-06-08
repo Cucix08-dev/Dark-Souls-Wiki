@@ -19,7 +19,7 @@ export default function InitialPage({ setPage }) {
     setFadeOut(true);
 
     setTimeout(() => {
-      setPage('MainPage');
+      setPage('main');
     }, 400);
   }
 

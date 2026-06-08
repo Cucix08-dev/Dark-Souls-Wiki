@@ -1,14 +1,12 @@
-import { useState, useEffect } from 'react';
 import Header from './Header';
 
-export default function MainPage() {
+export default function MainPage({ setPage }) {
   return (
     <>
-        <Header/>
+      <Header setPage={setPage} />
 
-        <main>
-
-        </main>
+      <main>
+      </main>
     </>
   );
 }

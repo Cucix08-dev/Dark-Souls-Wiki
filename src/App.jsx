@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import InitialPage from './InitialPage';
+import MainPage from './MainPage';
 
 function App() {
   const [page, setPage] = useState("initial");
@@ -7,7 +8,10 @@ function App() {
   return (
     <>
       {page === "initial" && <InitialPage setPage={setPage} />}
-      {page === "main" && <div>Qui ci sarà la tua MainPage</div>}
+
+      {page === "main" && (
+        <MainPage setPage={setPage} />
+      )}
     </>
   );
 }
