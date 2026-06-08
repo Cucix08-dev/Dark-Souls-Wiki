@@ -29,14 +29,14 @@
     left: 0;
     background-image: url('/assets/frame.webp');
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     background-position: center;
     cursor: pointer;
     z-index: 2;
     opacity: 1;
-
     transition: opacity 0.4s ease;
 }
+
 
 #welcome .block-in-img.hidden {
     opacity: 0;
@@ -44,8 +44,12 @@
 
 #welcome .intro-vid,
 #welcome .block-in-img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
     width: 100vw;
-    height: calc(100vw * 9 / 16); 
+    height: calc(100vw * 9 / 16);
     max-height: 100dvh;
+    transform: translate(-50%, -50%);
     object-fit: cover;
 }
