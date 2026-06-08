@@ -1,0 +1,51 @@
+#welcome {
+    margin: 0;
+    padding: 0;
+    top: 0;
+    left: 0;
+    position: absolute;
+    height: 100dvh;
+    width: 100vw;
+    overflow: hidden;
+    background-color: black;
+}
+
+#welcome .intro-vid {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    opacity: 1;
+    transition: opacity 0.4s ease;
+}
+
+#welcome .intro-vid.hidden {
+    opacity: 0;
+}
+
+#welcome .block-in-img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-image: url('/assets/frame.webp');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    cursor: pointer;
+    z-index: 2;
+    opacity: 1;
+
+    transition: opacity 0.4s ease;
+}
+
+#welcome .block-in-img.hidden {
+    opacity: 0;
+}
+
+#welcome .intro-vid,
+#welcome .block-in-img {
+    width: 100vw;
+    height: calc(100vw * 9 / 16); 
+    max-height: 100dvh;
+    object-fit: cover;
+}
