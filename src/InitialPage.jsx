@@ -8,7 +8,7 @@ export default function InitialPage({ setPage }) {
   useEffect(() => {
     const timer = setTimeout(() => {
       setTerminated(true);
-    }, 11000);
+    }, 5000);
 
     return () => clearTimeout(timer);
   }, []);

@@ -1,0 +1,40 @@
+#title-page{
+    font-size: clamp(1rem, 4vw, 2.5rem);
+    text-align: center;
+}
+
+#header-background{
+    background-image: url('/public/assets/Dark-Souls.webp');
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+#category-list, #darksouls-trilogy-list{
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 80vw;
+    margin: auto auto 10px auto;
+}
+
+#category-list li, #darksouls-trilogy-list li {
+    cursor: pointer;
+    padding: 8px 15px;
+    font-size: clamp(0.5rem, 1.6vw, 1rem);
+    text-shadow: 0 0 0 var(--gold);
+    translate: 0 10px;
+    transition: 
+        color ease 0.5s, 
+        text-shadow ease 0.5s;
+}
+
+#category-list li:hover, #darksouls-trilogy-list li:hover {
+    color: var(--gold);
+}
+
+.active {
+    color: gold;
+    text-shadow: 0 0 4px var(--gold) !important;
+    border-bottom: solid 1px var(--gold) !important;
+}
