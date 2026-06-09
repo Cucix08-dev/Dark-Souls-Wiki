@@ -1,9 +1,26 @@
 import { useState } from 'react';
 
 export default function Objects({ setPage, setSelectedCategory, setSelectedGame }) {
-  return (
-    <>
-        
-    </>
-  );
+  if ({setSelectedGame} === "I") {
+    return (
+      <>
+          
+      </>
+    );
+  }
+  else if ({setSelectedGame} === "II") {
+    return (
+      <>
+          
+      </>
+    );
+  }
+  else if ({setSelectedGame} === "III") {
+    return (
+      <>
+          
+      </>
+    );
+  }
+  
 }

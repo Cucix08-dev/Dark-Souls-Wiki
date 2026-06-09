@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import Header from './Header';
 
-import Armors from './categories/Armors';
+import Sets from './categories/Sets';
 import Bosses from './categories/Bosses';
 import Enchantments from './categories/Enchantments';
 import NPCs from './categories/NPCs';
@@ -21,7 +21,7 @@ export default function MainPage({ setPage }) {
     Objects,
     Bosses,
     NPCs,
-    Armors,
+    Sets,
     Weapons,
     Pyromancies,
     Sorceries,
@@ -45,7 +45,9 @@ export default function MainPage({ setPage }) {
         </h2>
 
         <div id='gridded-blocks'>
-          {SelectedComponent && <SelectedComponent game={selectedGame} />}
+          {SelectedComponent && (
+            <SelectedComponent selectedGame={selectedGame} />
+          )}
         </div>
       </main>
     </>

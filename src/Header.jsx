@@ -9,7 +9,7 @@ export default function Header({ setPage, setSelectedCategory, setSelectedGame }
     "Objects",
     "Bosses",
     "NPCs",
-    "Armors",
+    "Sets",
     "Weapons",
     "Pyromancies",
     "Sorceries",
@@ -31,12 +31,18 @@ export default function Header({ setPage, setSelectedCategory, setSelectedGame }
             onClick={() => {
               setActiveCategory(index);
               setSelectedCategory(cat);
+
+              if (activeGame === null) {
+                setSelectedGame("I");
+                setActiveGame(0); 
+              }
             }}
           >
             {cat}
           </li>
         ))}
       </ul>
+
 
       <ul id='darksouls-trilogy-list'>
         {trilogy.map((game, index) => (

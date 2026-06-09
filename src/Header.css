@@ -1,5 +1,6 @@
 #title-page{
     font-size: clamp(1rem, 4vw, 2.5rem);
+    font-family: 'Dark-Souls-Regular';
     text-align: center;
 }
 
@@ -16,6 +17,7 @@
     justify-content: center;
     width: 80vw;
     margin: auto auto 10px auto;
+    padding: 0;
 }
 
 #category-list li, #darksouls-trilogy-list li {

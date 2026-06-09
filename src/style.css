@@ -3,27 +3,35 @@
 }
 
 @font-face {
-    font-family: 'Marcellus SC';
-    font-style: normal;
-    font-weight: 400;
-    font-display: block;
-    src: local('Marcellus SC'),
-         local('MarcellusSC-Regular'),
-         url(https://fonts.gstatic.com/s/marcellussc/v5/ke8iOgUHP1dg-Rmi6RWjbLE_iNacKKg.woff2) format('woff2');
-    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+    font-family: 'Dark-Souls-Regular';
+    src: url('/fonts/DarkSoulsRegular.ttf');
 }
 
-body{
+@font-face {
+    font-family: 'Dark-Souls-Bold';
+    font-weight: 1000;
+    src: url('/fonts/DarkSoulsBold.ttf');
+}
+
+body {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
     height: 100dvh;
-    height: 100vh;
     width: 100vw;
     background-color: black;
-    font-family: 'Marcellus SC';
+    font-family: 'Dark-Souls-Bold';
     color: white;
+    overflow: hidden;
+
+    scrollbar-width: none;
+    scrollbar-color: transparent transparent;
 }
+
+::-webkit-scrollbar {
+    display: none;
+}
+
 
 header{
     border-bottom: solid 1px var(--gold);
@@ -32,10 +40,82 @@ header{
 }
 
 main{
-    width: 90vw;
+    width: 100vw;
     margin: auto;
 }
 
 main h2{
+    font-family: 'Dark-Souls-Bold';
     font-size: clamp(1rem, 3.3vw, 1.6rem);
+    text-align: center;
+}
+
+#gridded-blocks{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    padding: 20px;
+    overflow-y: scroll;
+    height: 60dvh;
+}
+
+.dark-souls-item-container{
+    width: 25vw;
+    max-width: 320px;
+    border: solid 1px var(--gold);
+    border-radius: 20px;
+    padding: 20px;
+    margin: 0 auto 10px auto;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 0 0 0 var(--gold);
+
+    transition: 
+        transform 0.3s ease,
+        box-shadow 0.3s ease;
+}
+
+.dark-souls-item-container:hover{
+    transform: scale(1.05);
+    box-shadow: 0 0 10px var(--gold);
+}
+
+.dark-souls-item-container .icon-item{
+    width: 16vw;
+    max-width: 120px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    aspect-ratio: 100/112.5;
+}
+
+.dark-souls-item-container .name-item{
+    font-size: clamp(0.7rem, 3vw, 1rem);
+}
+
+.dark-souls-item-container .desc-item{
+    font-size: clamp(0.6rem, 2vw, 0.7rem);
+}
+
+@media (max-width: 900px) {
+    #gridded-blocks{
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+        
+    .dark-souls-item-container{
+        width: 35vw;
+    }
+}
+
+@media (max-width: 400px) {
+    #gridded-blocks{
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+        
+    .dark-souls-item-container{
+        width: 60vw;
+    }
 }

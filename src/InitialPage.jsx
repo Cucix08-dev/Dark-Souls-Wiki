@@ -3,12 +3,12 @@ import './InitialPage.css';
 
 export default function InitialPage({ setPage }) {
   const [terminated, setTerminated] = useState(false);
-  const [fadeOut, setFadeOut] = useState(false); // stato per animazione
+  const [fadeOut, setFadeOut] = useState(false); 
 
   useEffect(() => {
     const timer = setTimeout(() => {
       setTerminated(true);
-    }, 5000);
+    }, 8000);
 
     return () => clearTimeout(timer);
   }, []);
