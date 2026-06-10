@@ -1,35 +1,11 @@
-import { useState } from 'react';
-import Header from './Header';
-
-import Sets from './categories/Sets';
-import Bosses from './categories/Bosses';
-import Enchantments from './categories/Enchantments';
-import NPCs from './categories/NPCs';
-import Objects from './categories/Objects';
-import Pyromancies from './categories/Pyromancies';
-import Rings from './categories/Rings';
-import Sorceries from './categories/Sorceries';
-import Weapons from './categories/Weapons';
-
-import './style.css';
+import { useState } from "react";
+import Header from "./Header";
+import CategoryRenderer from "./CategoryRenderer";
+import './style.css'
 
 export default function MainPage({ setPage }) {
   const [selectedCategory, setSelectedCategory] = useState("");
   const [selectedGame, setSelectedGame] = useState("");
-
-  const categoryComponents = {
-    Objects,
-    Bosses,
-    NPCs,
-    Sets,
-    Weapons,
-    Pyromancies,
-    Sorceries,
-    Enchantments,
-    Rings
-  };
-
-  const SelectedComponent = categoryComponents[selectedCategory];
 
   return (
     <>
@@ -40,13 +16,14 @@ export default function MainPage({ setPage }) {
       />
 
       <main>
-        <h2>
-          {selectedCategory} {selectedGame}
-        </h2>
+        <h2>{selectedCategory} {selectedGame}</h2>
 
-        <div id='gridded-blocks'>
-          {SelectedComponent && (
-            <SelectedComponent selectedGame={selectedGame} />
+        <div id="gridded-blocks">
+          {selectedCategory && selectedGame && (
+            <CategoryRenderer 
+              category={selectedCategory.toLowerCase()} 
+              selectedGame={selectedGame} 
+            />
           )}
         </div>
       </main>

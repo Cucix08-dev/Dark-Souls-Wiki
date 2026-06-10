@@ -87,7 +87,7 @@ main h2{
     max-width: 120px;
     background-repeat: no-repeat;
     background-size: contain;
-    aspect-ratio: 100/112.5;
+    aspect-ratio: 80/90;
 }
 
 .dark-souls-item-container .name-item{

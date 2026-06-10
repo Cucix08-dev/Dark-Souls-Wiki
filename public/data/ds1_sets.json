@@ -1,0 +1,460 @@
+{
+    "content": [
+        {
+            "name": "Elite Knight Helm",
+            "srcIcon": "/assets/I/sets/Elite Knight Set/Elite Knight Helm.jpg",
+            "desc": "Helm of a name less knight, perhaps an elite knight of Astora. Although he was loath to give up on his Undead mission, he perished at the Undead Asylum, and went Hollow."
+        },
+        {
+            "name": "Elite Knight Armor",
+            "srcIcon": "/assets/I/sets/Elite Knight Set/Elite Knight Armor.png",
+            "desc": "Armor of a nameless knight, perhaps an elite knight of Astora, based on the fire-warding heraldic symbol on its blue surcoat. Although he was loath to give up on his Undead mission, he perished at the Undead Asylum, and went Hollow."
+        },
+        {
+            "name": "Elite Knight Gauntlets",
+            "srcIcon": "/assets/I/sets/Elite Knight Set/Elite Knight Gauntlets.png",
+            "desc": "Gauntlets of a nameless knight, perhaps an elite knight of Astora. Although he was loath to give up on his Undead mission, he perished at the Undead Asylum, and went Hollow."
+        },
+        {
+            "name": "Elite Knight Leggings",
+            "srcIcon": "/assets/I/sets/Elite Knight Set/Elite Knight Leggings.png",
+            "desc": "Leggings of a nameless knight, perhaps an elite knight of Astora. Although he was loath to give up on his Undead mission, he perished at the Undead Asylum, and went Hollow."
+        },
+
+
+
+        {
+            "name": "Knight Helm",
+            "srcIcon": "/assets/I/sets/Knight Set/Knight Helm.png",
+            "desc": "Helm equipment of a lower rank knight. Despite the thin metal used, the grooved texture gives them added protection."
+        },
+        {
+            "name": "Knight Armor",
+            "srcIcon": "/assets/I/sets/Knight Set/Knight Armor.png",
+            "desc": "Armor equipment of a lower a rank knight. Despite the thin metal used, the grooved texture gives them added protection."
+        },
+        {
+            "name": "Knight Gauntlets",
+            "srcIcon": "/assets/I/sets/Knight Set/Knight Gauntlets.png",
+            "desc": "Gauntlets equipment of a lower a rank knight. Despite the thin metal used, the grooved texture gives them added protection."
+        },
+        {
+            "name": "Knight Leggings",
+            "srcIcon": "/assets/I/sets/Knight Set/Knight Leggings.png",
+            "desc": "Legging sequipment of a lower a rank knight. Despite the thin metal used, the grooved texture gives them added protection."
+        },
+
+
+
+        {
+            "name": "Wanderer Hood",
+            "srcIcon": "/assets/I/sets/Wanderer Set/Wanderer Hood.png",
+            "desc": "Hood of an aimless traveler. Made from sturdy leather, it offers protection versus wind and rain."
+        },
+        {
+            "name": "Wanderer Coat",
+            "srcIcon": "/assets/I/sets/Wanderer Set/Wanderer Coat.png",
+            "desc": "Coat of an aimless traveler. Made from sturdy leather and quilting. Battle comes with the territory when one wanders the land, and this coat provides a certain degree of protection."
+        },
+        {
+            "name": "Wanderer Manchette",
+            "srcIcon": "/assets/I/sets/Wanderer Set/Wanderer Manchette.png",
+            "desc": "Manchette of an aimless wanderer. Made from sturdy leather and protects the hands. Boots of an aimless traveler. Made from sturdy leather. A must-have for long journeys."
+        },
+        {
+            "name": "Wanderer Boots",
+            "srcIcon":" /assets/I/sets/Wanderer Set/Wanderer Boots.png",
+            "desc": "Boots of an aimless traveler. Made from sturdy leather. A must-have for long journeys."
+        },
+
+
+
+        {
+            "name": "Thief Mask",
+            "srcIcon": "/assets/I/sets/Thief Set/Thief Mask.png",
+            "desc": "Mask of sinners. They hide their faces, stifle their voices and hide in the shadows. It does not provide much in the way of defense."
+        },
+        {
+            "name": "Black Leather Armor",
+            "srcIcon": "/assets/I/sets/Thief Set/Black Leather Armor.png",
+            "desc": "This armor is made of smooth black leather is extremely quiet, a good thing for those who hide in the shadows. The leather itself is thick, offering a decent level of protection."
+        },
+        {
+            "name": "Black Leather Gloves",
+            "srcIcon": "/assets/I/sets/Thief Set/Black Leather Gloves.png",
+            "desc": "This armor is made of smooth black leather is extremely quiet, a good thing for those who hide in the shadows. The leather itself is thick, offering a decent level of protection."
+        },
+        {
+            "name": "Black Leather Boots",
+            "srcIcon": "/assets/I/sets/Thief Set/Black Leather Boots.png",
+            "desc": "This armor is made of smooth black leather is extremely quiet, a good thing for those who hide in the shadows. The leather itself is thick, offering a decent level of protection."
+        },
+
+
+
+        {
+            "name": "Silver Knight Helm",
+            "srcIcon": "/assets/I/sets/Silver Knight Set/Silver Knight Helm.png",
+            "desc": "Helm of the Silver Knights who protect Anor Londo. When Lord Gwyn departed to link the Fire, his knights split into two groups. The Silver Knights remained in the forsaken capital in the service of their goddess."
+        },
+        {
+            "name": "Silver Knight Armor",
+            "srcIcon": "/assets/I/sets/Silver Knight Set/Silver Knight Armor.png",
+            "desc": "Armor of the Silver Knights who protect Anor Londo. When Lord Gwyn departed to link the Fire, his knights split into two groups. The Silver Knights remained in the forsaken capital in the service of their goddess."
+        },
+        {
+            "name": "Silver Knight Gauntlets",
+            "srcIcon": "/assets/I/sets/Silver Knight Set/Silver Knight Gauntlets.png",
+            "desc": "Gauntlets of the Silver Knights who protect Anor Londo. When Lord Gwyn departed to link the Fire, his knights split into two groups. The Silver Knights remained in the forsaken capital in the service of their goddess."
+        },
+        {
+            "name": "Silver Knight Leggings",
+            "srcIcon": "/assets/I/sets/Silver Knight Set/Silver Knight Leggings.png",
+            "desc": "Leggings of the Silver Knights who protect Anor Londo. When Lord Gwyn departed to link the Fire, his knights split into two groups. The Silver Knights remained in the forsaken capital in the service of their goddess."
+        },
+
+
+
+        {
+            "name": "Giant Helm",
+            "srcIcon": "/assets/I/sets/Giant Set/Giant Helm.png",
+            "desc": "Helm of the giant sentinels of Anor Londo. Made from ancient brass, it also offers protection versus non-physical attacks, but due to its giant size, it is extremely heavy for humans, and impedes stamina recovery."
+        },
+        {
+            "name": "Giant Armor",
+            "srcIcon": "/assets/I/sets/Giant Set/Giant Armor.png",
+            "desc": "Armor of the giant sentinels of Anor Londo. Made from ancient brass, it also offers protection versus non-physical attacks, but due to its giant size, it is extremely heavy for humans, and impedes stamina recovery."
+        },
+        {
+            "name": "Giant Gauntlets",
+            "srcIcon": "/assets/I/sets/Giant Set/Giant Gauntlets.png",
+            "desc": "Gauntlets of the giant sentinels of Anor Londo. Made from ancient brass, they also offer protection versus non-physical attacks, but due to their giant size, they are extremely heavy for humans, and impede stamina recovery."
+        },
+        {
+            "name": "Giant Leggings",
+            "srcIcon": "/assets/I/sets/Giant Set/Giant Leggings.png",
+            "desc": "Leggings of the giant sentinels of Anor Londo. Made from ancient brass, they also offer protection versus non-physical attacks, but due to their giant size, they are extremely heavy for humans, and impede stamina recovery."
+        },
+
+
+
+        {
+            "name": "Havel's Helm",
+            "srcIcon": "/assets/I/sets/Havel's Set/Havel's Helm.png",
+            "desc": "Helm worn by Havel the Rock's warriors. Carved from solid rock, its tremendous weight is matched only by the defense it provides. Havel's warriors never flinched nor retreated from battle. Those unfortunate enough to face them were inevitably beaten to a pulp."
+        },
+        {
+            "name": "Havel's Armor",
+            "srcIcon": "/assets/I/sets/Havel's Set/Havel's Armor.png",
+            "desc": "Armor worn by Havel the Rock's warriors. Carved from solid rock, its tremendous weight is matched only by the defense it provides. Havel's warriors never flinched nor retreated from battle. Those unfortunate enough to face them were inevitably beaten to a pulp. "
+        },
+        {
+            "name": "Havel's Gauntlets",
+            "srcIcon": "/assets/I/sets/Havel's Set/Havel's Gauntlets.png",
+            "desc": "Gauntlets worn by Havel the Rock's warriors. Carved from solid rock, their tremendous weight is matched only by the defense it provides. Havel's warriors never flinched nor retreated from battle. Those unfortunate enough to face them were inevitably beaten to a pulp."
+        },
+        {
+            "name": "Havel's Leggings",
+            "srcIcon": "/assets/I/sets/Havel's Set/Havel's Leggings.png",
+            "desc": "Leggings worn by Havel the Rock's warriors. Carved from solid rock, their tremendous weight is matched only by the defense it provides. Havel's warriors never flinched nor retreated from battle. Those unfortunate enough to face them were inevitably beaten to a pulp."
+        },
+
+
+
+        {
+            "name": "Brass Helm",
+            "srcIcon": "/assets/I/sets/Brass Set/Brass Helm.png",
+            "desc": "Helm of the Darkmoon Knightess, Fire Keeper of Anor Londo. After becoming Undead, she visited the Dark Sun Gwyndolin at the Mausoleum of the Spiral Depths, became a Blade of Darkmoon, and assumed the flame-keeping duty. She received this helm, which hides her hideous form and helps her hunt the guilty."
+        },
+        {
+            "name": "Brass Armor",
+            "srcIcon": "/assets/I/sets/Brass Set/Brass Armor.png",
+            "desc": "Armor of the Darkmoon Knightess, Fire Keeper of Anor Londo. After becoming Undead, she visited the Dark Sun Gwyndolin at the Mausoleum of the Spiral Depths, became a Blade of Darkmoon, and assumed the flame-keeping duty. She received this armor, which hides her hideous form and helps her hunt the guilty."
+        },
+        {
+            "name": "Brass Gauntlets",
+            "srcIcon": "/assets/I/sets/Brass Set/Brass Gauntlets.png",
+            "desc": "Gauntlets of the Darkmoon Knightess, Fire Keeper of Anor Londo. After becoming Undead, she visited the Dark Sun Gwyndolin at the Mausoleum of the Spiral Depths, became a Blade of Darkmoon, and assumed the flame-keeping duty. She received these gauntlets, which hide her hideous form and help her hunt the guilty."
+        },
+        {
+            "name": "Brass Leggings",
+            "srcIcon": "/assets/I/sets/Brass Set/Brass Leggings.png",
+            "desc": "Leggings of the Darkmoon Knightess, Fire Keeper of Anor Londo. After becoming Undead, she visited the Dark Sun Gwyndolin at the Mausoleum of the Spiral Depths, became a Blade of Darkmoon, and assumed the flame-keeping duty. She received these leggings, which hides her hideous form and help her hunt the guilty."
+        },
+
+
+
+        {
+            "name": "Mask of the Sealer",
+            "srcIcon": "/assets/I/sets/Crimson Set/Mask of the Sealer.png",
+            "desc": "Mask of the sorcerers who flooded New Londo to seal away the Darkwraiths, and the Four Kings who descended into Dark. It symbolizes their resolve to keep the seal shut forever and their atonement for all who were sacrificed, but two of the three forsook New Londo upon tiring of their duty. "
+        },
+        {
+            "name": "Crimson Robe",
+            "srcIcon": "/assets/I/sets/Crimson Set/Crimson Robe.png",
+            "desc": "Robe of the sorcerers who flooded New Londo to seal away the Dark wraiths, and the Four Kings who descended into Dark. The Sealers were once known as healers, and the bright crimson was a symbol of that."
+        },
+        {
+            "name": "Crimson Gloves",
+            "srcIcon": "/assets/I/sets/Crimson Set/Crimson Gloves.png",
+            "desc": "Gloves of the sorcerers who flooded New Londo to seal away the Dark wraiths, and the Four Kings who descended into Dark. The Sealers were once known as healers, and the bright crimson was a symbol of that."
+        },
+        {
+            "name": "Crimson Waistcloth",
+            "srcIcon": "/assets/I/sets/Crimson Set/Crimson Waistcloth.png",
+            "desc": "Waistcloth of the sorcerers who flooded New Londo to seal away the Darkwraiths, and the Four Kings who descended into Dark. The Sealers were once known as healers, and the bright crimson was a symbol of that."
+        },
+
+
+
+        {
+            "name": "Maiden Hood",
+            "srcIcon": "/assets/I/sets/Maiden Set/Maiden Hood.png",
+            "desc": "White hood worn by traveling maidens. It is part of their formal attire, regardless of rank. It is soft and well-made, but does not offer much in the way of defense, making it ill-suited to use in battle."
+        },
+        {
+            "name": "Maiden Robe",
+            "srcIcon": "/assets/I/sets/Maiden Set/Maiden Robe.png",
+            "desc": "White robe worn by traveling maidens. It is part of their formal attire, regardless of rank. It is soft and well-made, but does not offer much in the way of defense, making it ill- suited to use in battle."
+        },
+        {
+            "name": "Maiden Gloves",
+            "srcIcon": "/assets/I/sets/Maiden Set/Maiden Gloves.png",
+            "desc": "White gloves worn by traveling maidens. It is part of their formal attire, regardless of rank. It is soft and well-made, but does not offer much in the way of defense, making it ill- suited to use in battle."
+        },
+        {
+            "name": "Maiden Skirt",
+            "srcIcon": "/assets/I/sets/Maiden Set/Maiden Skirt.png",
+            "desc": "White skirt worn by traveling maidens. It is part of their formal attire, regardless of rank. It is soft and well-made, but does not offer much in the way of defense, making it ill- suited to use in battle."
+        },
+
+
+
+        {
+            "name": "Cleric Helm",
+            "srcIcon": "/assets/I/sets/Cleric Set/Cleric Helm.png",
+            "desc": "Helm worn by the warrior clerics of the Way of White, who are famous for being unyielding in battle. It is rather substantial in size and weight, making its wearer look even bigger than he actually is."
+        },
+        {
+            "name": "Cleric Armor",
+            "srcIcon": "/assets/I/sets/Cleric Set/Cleric Armor.png",
+            "desc": "Armor worn by the warrior clerics of the Way of White, who are famous for being unyielding in battle. It is rather substantial in size and weight, making its wearer look even bigger than he actually is."
+        },
+        {
+            "name": "Cleric Gauntlets",
+            "srcIcon": "/assets/I/sets/Cleric Set/Cleric Gauntlets.png",
+            "desc": "Gauntlets worn by the warrior clerics of the Way of White, who are famous for being unyielding in battle. They are rather substantial in size and weight, making their wearer look even bigger than he actually is."
+        },
+        {
+            "name": "Cleric Leggings",
+            "srcIcon": "/assets/I/sets/Cleric Set/Cleric Leggings.png",
+            "desc": "Leggings worn by the warrior clerics of the Way of White, who are famous for being unyielding in battle. They are rather substantial in size and weight, making their wearer look even bigger than he actually is."
+        },
+
+
+
+        {
+            "name": "Paladin Helm",
+            "srcIcon": "/assets/I/sets/Paladin Set/Paladin Helm.png",
+            "desc": "Helm of Leeroy, Paladin of the Catacombs. Long ago, the Way of the White produced its first Undead, a paladin in golden armor. With the legendary treasures Grant and Sanctus, Leeroy set out for Lordran, Land of the Gods, in the first Undead mission of the Way of White."
+        },
+        {
+            "name": "Paladin Armor",
+            "srcIcon": "/assets/I/sets/Paladin Set/Paladin Armor.png",
+            "desc": "Armor of Leeroy, Paladin of the Catacombs. Long ago, the Way of the White produced its first Undead, a paladin in golden armor. With the legendary treasures Grant and Sanctus, Leeroy set out for Lordran, Land of the Gods, in the first Undead mission of the Way of White."
+        },
+        {
+            "name": "Paladin Gauntlets",
+            "srcIcon": "/assets/I/sets/Paladin Set/Paladin Gauntlets.png",
+            "desc": "Gauntlets of Leeroy, Paladin of the Catacombs. Long ago, the Way of the White produced its first Undead, a paladin in golden armor. With the legendary treasures Grant and Sanctus, Leeroy set out for Lordran, Land of the Gods, in the first Undead mission of the Way of White."
+        },
+        {
+            "name": "Paladin Leggings",
+            "srcIcon": "/assets/I/sets/Paladin Set/Paladin Leggings.png",
+            "desc": "Leggings of Leeroy, Paladin of the Catacombs. Long ago, the Way of the White produced its first Undead, a paladin in golden armor. With the legendary treasures Grant and Sanctus, Leeroy set out for Lordran, Land of the Gods, in the first Undead mission of the Way of White."
+        },
+
+
+
+        {
+            "name": "Black Iron Helm",
+            "srcIcon": "/assets/I/sets/Black Iron Set/Black Iron Helm.png",
+            "desc": "Helm of Black Iron Tarkus, a knight known for his great strength. Built of a special black iron and providing strong defense, notably against fire, but so terrible heavy to be unwieldy to all but Tarkus himself."
+        },
+        {
+            "name": "Black Iron Armor",
+            "srcIcon": "/assets/I/sets/Black Iron Set/Black Iron Armor.png",
+            "desc": "Armor of Black Iron Tarkus, a knight known for his great strength. Built of a special black iron and providing strong defense, notably against fire, but so terrible heavy to be unwieldy to all but Tarkus himself."
+        },
+        {
+            "name": "Black Iron Gauntlets",
+            "srcIcon": "/assets/I/sets/Black Iron Set/Black Iron Gauntlets.png",
+            "desc": "Gauntlets of Black Iron Tarkus, a knight known for his great strength. Built of a special black iron and providing strong defense, notably against fire, but so terrible heavy to be unwieldy to all but Tarkus himself."
+        },
+        {
+            "name": "Black Iron Leggings",
+            "srcIcon": "/assets/I/sets/Black Iron Set/Black Iron Leggings.png",
+            "desc": "Leggings of Black Iron Tarkus, a knight known for his great strength. Built of a special black iron and providing strong defense, notably against fire, but so terrible heavy to be unwieldy to all but Tarkus himself."
+        },
+
+
+
+        {
+            "name": "Iron Helm",
+            "srcIcon": "/assets/I/sets/Iron Set/Iron Helm.png",
+            "desc": "Helm of Solaire of Astora, Knight of Sunlight. Of high quality, but lacking any particular powers. Solaire's incredible prowess must have come from rigorous training alone, for his equipment exhibits no special traits."
+        },
+        {
+            "name": "Armor of the Sun",
+            "srcIcon": "/assets/I/sets/Iron Set/Armor of the Sun.png",
+            "desc": "Armor of Solaire of Astora, Knight of Sunlight. The large holy symbol of the Sun, while powerless, was painted by Solaire himself. Solaire's incredible prowess must have come from rigorous training alone, for his equipment exhibits no special traits."
+        },
+        {
+            "name": "Iron Bracelet",
+            "srcIcon": "/assets/I/sets/Iron Set/Iron Bracelet.png",
+            "desc": "Bracelets of Solaire of Astora, Knight of Sunlight. Of high quality, but lacking any particular powers. Solaire's incredible prowess must have come from rigorous training alone, for his equipment exhibits no special traits."
+        },
+        {
+            "name": "Iron Leggings",
+            "srcIcon": "/assets/I/sets/Iron Set/Iron Leggings.png",
+            "desc": "Leggings of Solaire of Astora, Knight of Sunlight. Of high quality, but lacking any particular powers. Solaire's incredible prowess must have come from rigorous training alone, for his equipment exhibits no special traits."
+        },
+
+
+        {
+            "name": "Balder Helm",
+            "srcIcon": "/assets/I/sets/Balder Set/Balder Helm.png",
+            "desc": "Helm worn by the knights of the ancient kingdom of Balder. It is made from thick iron plates. Balder was the homeland of the Knight King Rendal, but it came to ruin after a great many Undead were spawned."
+        },
+        {
+            "name": "Balder Armor",
+            "srcIcon": "/assets/I/sets/Balder Set/Balder Armor.png",
+            "desc": "Armor worn by the knights of the ancient kingdom of Balder. It is made from thick iron plates. Balder was the homeland of the Knight King Rendal, but it came to ruin after a great many Undead were spawned."
+        },
+        {
+            "name": "Balder Gauntlets",
+            "srcIcon": "/assets/I/sets/Balder Set/Balder Gauntlets.png",
+            "desc": "Gauntlets worn by the knights of the ancient kingdom of Balder. It is made from thick iron plates. Balder was the homeland of the Knight King Rendal, but it came to ruin after a great many Undead were spawned."
+        },
+        {
+            "name": "Balder Leggings",
+            "srcIcon": "/assets/I/sets/Balder Set/Balder Leggings.png",
+            "desc": "Leggings worn by the knights of the ancient kingdom of Balder. It is made from thick iron plates. Balder was the homeland of the Knight King Rendal, but it came to ruin after a great many Undead were spawned."
+        },
+
+
+
+        {
+            "name": "Catarina Helm",
+            "srcIcon": "/assets/I/sets/Catarina Set/Catarina Helm.png",
+            "desc": "Distinctively shaped helm worn by the Knights of Catarina. Outside Catarina, it is often ridiculed for their onion-like shape, infuriating the proud knights, but the masterfully forged curved design makes it very effective for parrying."
+        },
+        {
+            "name": "Catarina Armor",
+            "srcIcon": "/assets/I/sets/Catarina Set/Catarina Armor.png",
+            "desc": "Distinctively shaped armor worn by the Knights of Catarina. Outside of Catarina, it is often ridiculed for their onion-like shape, infuriating the proud knights, but the masterfully forged curved design makes it very effective for parrying."
+        },
+        {
+            "name": "Catarina Gauntlets",
+            "srcIcon": "/assets/I/sets/Catarina Set/Catarina Gauntlets.png",
+            "desc": "Distinctively shaped gauntlets worn by the Knights of Catarina. Outside of Catarina, they are often ridiculed for their onion-like shape, infuriating the proud knights, but the masterfully forged curved design makes it very effective for parrying."
+        },
+        {
+            "name": "Catarina Leggings",
+            "srcIcon": "/assets/I/sets/Catarina Set/Catarina Leggings.png",
+            "desc": "Distinctively shaped leggings worn by the Knights of Catarina. Outside of Caterina, they are often ridiculed for their onion-like shape, infuriating the proud knights, but the masterfully forged curved design makes it very effective for parrying."
+        },
+
+
+
+        {
+            "name": "Eastern Helm",
+            "srcIcon": "/assets/I/sets/Eastern Set/Eastern Helm.png",
+            "desc": "A distinctive helm made in an Eastern land. Exquisitely crafted, this helm offers excellent defense, particularly versus slash attacks, which are one of the main threats in battles in the East."
+        },
+        {
+            "name": "Eastern Armor",
+            "srcIcon": "/assets/I/sets/Eastern Set/Eastern Armor.png",
+            "desc": "A distinctive armor made in an Eastern land. Exquisitely crafted, this armor offers excellent defense, particularly versus slash attacks, which are one of the main threats in battles in the East."
+        },
+        {
+            "name": "Eastern Gauntlets",
+            "srcIcon": "/assets/I/sets/Eastern Set/Eastern Gauntlets.png",
+            "desc": "Distinctive gauntlets made in an Eastern land. Exquisitely crafted, these gauntlets offer excellent defense, particularly versus slash attacks, which are one of the main threats in battles in the East."
+        },
+        {
+            "name": "Eastern Leggings",
+            "srcIcon": "/assets/I/sets/Eastern Set/Eastern Leggings.png",
+            "desc": "Distinctive leggings made in an Eastern land. Exquisitely crafted, these leggings offer excellent defense, particularly versus slash attacks, which are one of the main threats in battles in the East."
+        },
+
+
+
+        {
+            "name": "Shadow Mask",
+            "srcIcon": "/assets/I/sets/Shadow Set/Shadow Mask.png",
+            "desc": "Black cloth mask worn by spooks from an Eastern land. Designed so as not to hinder their unique form of martial arts. While it sacrifices defense for the sake of greater mobility, it does offer resistance to bleeding and poison among other things, perhaps due to the nature of their duty."
+        },
+        {
+            "name": "Shadow Garb",
+            "srcIcon": "/assets/I/sets/Shadow Set/Shadow Garb.png",
+            "desc": "Black cloth garb worn by spooks from an Eastern land. Designed so as not to hinder their unique form of martial arts. White it sacrifices defense for the sake of greater mobility, it does offer resistance to bleeding and poison among other things, perhaps due to the nature of espionage."
+        },
+        {
+            "name": "Shadow Gauntlets",
+            "srcIcon": "/assets/I/sets/Shadow Set/Shadow Gauntlets.png",
+            "desc": "Black cloth gauntlets worn by spooks from an Eastern land. Designed so as not to hinder their unique form of martial arts. White they sacrifice defense for the sake of greater mobility, they do offer resistance to bleeding and poison among other things, perhaps due to the nature of espionage."
+        },
+        {
+            "name": "Shadow Leggings",
+            "srcIcon": "/assets/I/sets/Shadow Set/Shadow Leggings.png",
+            "desc": "Black cloth leggings worn by spooks from an Eastern land. Designed so as not to hinder their unique form of martial arts. White they sacrifice defense for the sake of greater mobility, they do offer resistance to bleeding and poison among other things, perhaps due to the nature of espionage."
+        },
+
+
+
+        {
+            "name": "Gold-Hemmed Black Hood",
+            "srcIcon": "/assets/I/sets/Gold-Hemmed Black Set/Gold-Hemmed Black Hood.png",
+            "desc": "Worn by the witch Quelana of Izalith, mother of pyromancy and Daughter of Chaos. She wore this gold-hemmed black hood before even the Age of Fire, and it offers strong resistance versus fire, poison, and other perils."
+        },
+        {
+            "name": "Gold-Hemmed Black Cloak",
+            "srcIcon": "/assets/I/sets/Gold-Hemmed Black Set/Gold-Hemmed Black Cloak.png",
+            "desc": "Worn by the witch Quelana of Izalith, mother of pyromancy and Daughter of Chaos. She wore this gold-hemmed black cloak before even the Age of Fire, and it offers strong resistance versus fire, poison, and other perils."
+        },
+        {
+            "name": "Gold-Hemmed Black Gloves",
+            "srcIcon": "/assets/I/sets/Gold-Hemmed Black Set/Gold-Hemmed Black Gloves.png",
+            "desc": "Worn by the witch Quelana of Izalith, mother of pyromancy and Daughter of Chaos. She wore these gold lined black gloves before even the Age of Fire, and they offer strong resistance versus fire, poison, and other perils."
+        },
+        {
+            "name": "Gold-Hemmed Black Skirt",
+            "srcIcon": "/assets/I/sets/Gold-Hemmed Black Set/Gold-Hemmed Black Skirt.png",
+            "desc": "Worn by the witch Quelana of Izalith, mother of pyromancy and Daughter of Chaos. She wore this gold-hemmed black skirt before even the Age of Fire, and it offers strong resistance versus fire, poison, and other perils."
+        },
+
+        
+
+        {
+            "name": "Xanthous Crown",
+            "srcIcon": "/assets/I/sets/Xanthous Set/Xanthous Crown.png",
+            "desc": "A mysterious item once worn by the Xanthous King Jeremiah, the legendary exile. No one knows where it came from. The crown bears high-quality cloth which is quite soft to the touch, but its bright yellow color stings the eyes, and it is clearly far too big."
+        },
+        {
+            "name": "Xanthous Overcoat",
+            "srcIcon": "/assets/I/sets/Xanthous Set/Xanthous Overcoat.png",
+            "desc": "A mysterious item once worn by the Xanthous King Jeremiah, the legendary exile. No one knows where it came from. It may be tattered, but its bright yellow color still stings the eyes."
+        },
+        {
+            "name": "Xanthous Gloves",
+            "srcIcon": "/assets/I/sets/Xanthous Set/Xanthous Gloves.png",
+            "desc": "Mysterious items once worn by the Xanthous King Jeremiah, the legendary exile. No one knows where it came from. They may be tattered, but its bright yellow color still stings the eyes."
+        },
+        {
+            "name": "Xanthous Waistcloth",
+            "srcIcon": "/assets/I/sets/Xanthous Set/Xanthous Waistcloth.png",
+            "desc": "A mysterious item once worn by the Xanthous King Jeremiah, the legendary exile. No one knows where it came from. It may be tattered, but its bright yellow color still stings the eyes."
+        }
+    ]
+}
